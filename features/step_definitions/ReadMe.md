@@ -2,9 +2,7 @@ AUTOMAÇÃO NO SITE NETSHOES, EM LINGUAGEM RUBY.
 Na criação da automação, foi utilizado o programa-VsCode;Ruby. 
 
 1º Vi as instruções gerais que foi pedido no Desafio Smarkio – QA jr.
-   1- Entre em um portal de comércio online que desejar (Exemplo: Kabum, CVC, Casas Bahia,
-
-      Submarino, Netshoes)
+   1- Entre em um portal de comércio online que desejar (Exemplo: Kabum, CVC, Casas Bahia, Submarino, Netshoes)
 
    2- Faça uma busca por um produto
 
