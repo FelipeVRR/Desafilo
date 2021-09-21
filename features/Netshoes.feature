@@ -1,12 +1,8 @@
 # language:pt
 # encode: UTF-8
 
-Funcionalidade: Testar o site Netshoes
-    Para que eu possa acessar o site Netshoes
-    Escolhendo um produto
-    Posso inserir o produto no carrinho de compras
-
-
+Funcionalidade: Testar o site Netshoes inserindo o tenis no carrinho de compras
+ 
     @inicio
     Cenario: Entrar no site Netshoes.
 
