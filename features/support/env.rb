@@ -2,11 +2,8 @@ require 'rspec'
 require 'yaml'
 require 'pry'
 require 'capybara/cucumber'
-require 'ffaker'
-require 'faker'
 require 'selenium-webdriver'
-require 'json'
-require 'report_builder'
+
 
 
 Capybara.register_driver  :selenium do |driver|
