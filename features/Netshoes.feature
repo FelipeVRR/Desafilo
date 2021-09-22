@@ -3,7 +3,7 @@
 
 Funcionalidade: Testar o site Netshoes inserindo o tenis no carrinho de compras
  
-    @inicio
+    @desafio
     Cenario: Entrar no site Netshoes.
 
         Dado que entrei no site Netshoes
