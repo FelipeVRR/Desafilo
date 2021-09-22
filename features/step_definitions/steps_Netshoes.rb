@@ -21,7 +21,6 @@ end
 Entao('o mesmo será encaminhado ao carrinho') do
     find('button[id="buy-button-now"]').click()
 
-    
     sleep 6
 
 end
